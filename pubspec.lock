@@ -278,12 +278,12 @@ packages:
     source: hosted
     version: "0.9.6+3"
   moor:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: moor
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.7.0"
+    version: "1.7.1"
   moor_flutter:
     dependency: "direct main"
     description:
@@ -297,7 +297,7 @@ packages:
       name: moor_generator
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.7.0"
+    version: "1.7.1"
   package_config:
     dependency: transitive
     description:
