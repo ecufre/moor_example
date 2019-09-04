@@ -8,7 +8,7 @@ class MoorApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Provider(
       // The single instance of AppDatabase
-      builder: (_) => AppDatabase().taskDao,
+      builder: (_) => AppDatabase(),
       child: MaterialApp(
         title: 'Moor App',
         debugShowCheckedModeBanner: false,
