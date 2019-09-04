@@ -1,2 +1,2 @@
 # moor_example
-Tables & Queries – Fluent SQLite Database
+Advanced Queries & DAOs – Fluent SQLite Database
